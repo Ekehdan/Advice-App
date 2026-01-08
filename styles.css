@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div1{
+    
+    width: 23rem;
+    height: 15rem;
+    margin: auto;
+    margin-block: 13%;
+    border-radius: 15px;
+    /* background: linear-gradient(white, blue); */
+    /* background-image: linear-gradient(to right, #159957, #155799); */
+    background-color: red;
+    position: relative;
+    
+   
+
+
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: 700;
+    /* background-image: linear-gradient(to top, #fdcbf1 0%, #e6dee9 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text; */
+    color: #fff;
+}
+
+body{
+   /* background-image: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%); */
+   /* background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%); */
+   /* background-image: linear-gradient(to right, #ee0979, #ff6a00); */
+   /* background-image: linear-gradient(to top, #ff5f6d, #ffc371); */
+   background-image: linear-gradient(to right, #c33764, #1d2671);
+}
+
+#btn{
+    
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    text-align: center;
+    /* margin-block: 30px;
+    margin-inline: 150px; */
+     /* background-image: linear-gradient(to right, #c33764, #1d2671); */
+     background-color: darkred;
+     border: none;
+     position: absolute;
+     left:9.5rem;
+     top: 12rem;
+}
+
+#btn>img{
+    width: 50px;
+    height: 50px;
+    margin-block:7px;
+}
+
+#advice{
+    font-size: 22px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+    color: #fff;
+}
+
+.pause{
+    letter-spacing: 5px;
+    position: absolute;
+    top: 160px;
+    left: 170px;
+    /* font-weight: 900; */
+/* background:linear-gradient(to right, #159957, #155799); */
+background-color: red;
+color: black;
+width: 30px;
+padding: 0px 7px;
+
+}
+
+.line{
+    width: 300px;
+    border: 1px solid ;
+    color: #1d2671;
+    /* margin-top: 40px;
+    margin-left: 33px; */
+    position: absolute;
+    left: 2rem;
+    top: 10.5rem;
+}
+
+
