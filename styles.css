@@ -95,4 +95,15 @@ padding: 0px 7px;
     top: 10.5rem;
 }
 
+@media (min-width:200px) and (max-width:420px) {
+    body{
+        width: 100%;
+        width: calc(100% - 40%);
+    }
 
+    .div1{
+        width: 20rem;
+        margin: 10rem 2rem;
+
+    }
+}
