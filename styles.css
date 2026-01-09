@@ -106,4 +106,18 @@ padding: 0px 7px;
         margin: 10rem 1.5rem;
 
     }
+    #btn{
+       position: absolute;
+     left:8.5rem;  
+    }
+    .line{
+        position: absolute;
+    left: 0.6rem;
+    top: 10rem;
+    }
+    .pause{
+       position: absolute;
+       left: 9rem;
+       top: 9.5rem;
+    }
 }
